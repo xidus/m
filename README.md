@@ -1,4 +1,4 @@
-# Metro-pwrroner
+# Metro-perroner
 
 Retning og placering af rulletrapper og elevatorer, når man tager metroen rundt med uret.
 
